@@ -27,3 +27,4 @@ get_template_part('index','banner');
 <!-- /Blog Section with Sidebar -->
 <?php the_content(); ?>
 <?php get_footer(); ?>
+
